@@ -1,16 +1,26 @@
-### Hi there 👋
+### Hi there 👋, I'm Vova
 
-<!--
-**oxxxios/oxxxios** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![](https://komarev.com/ghpvc/?username=oxxios)
 
-Here are some ideas to get you started:
+## I'm a Backend Developer
+- 💪 I like to write code
+- 🎉 I love to play Osu)
+- 🥅 I am constantly learning new things
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+### My skills:
+P.s. I'm just learning and still don't know much
+<!-- BLOG-POST-LIST:START -->
+- [Программирование на языке python](https://webtricks-master.ru/javascript/destrukturizatsiya-v-javascript/)
+- [Написание телеграмм ботов](https://webtricks-master.ru/react-hooks/pishem-spisok-zadach-na-react-hooks/)
+- [ ООП](https://webtricks-master.ru/react-hooks/pishem-spisok-zadach-na-react-hooks/)
+- [](https://webtricks-master.ru/beginners/kak-podklyuchit-sass-k-react/)
+
+
+
+
+
+
+
+
