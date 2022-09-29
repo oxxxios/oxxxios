@@ -11,10 +11,10 @@
 
 ### My skills:
 P.s. I'm just learning and still don't know much
-<!-- BLOG-POST-LIST:START -->
-- [Программирование на языке python]
-- [Написание телеграмм ботов]
-- [ ООП]
+
+- Программирование на языке python
+- Написание телеграмм ботов
+-  ООП
 
 
 
