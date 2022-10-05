@@ -4,7 +4,8 @@
 
 ## I'm a Backend Developer
 - 💪 I like to write code
-- 🎉 I love to play Osu)
+- 🎉 I love to play Osu https://osu.ppy.sh/users/25849153
+
 - 🥅 I am constantly learning new things
 
 
